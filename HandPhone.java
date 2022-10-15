@@ -1,4 +1,3 @@
-package sesi2;
 
 public class HandPhone {
     String jenis_hp;
